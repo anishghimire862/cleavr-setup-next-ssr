@@ -1,0 +1,12 @@
+{
+  "name": "cleaver-setup-nextjs",
+  "version": "1.0.0",
+  "description": "Cleaver Deployment",
+  "main": "index.js",
+  "repository": "git@github.com:anishghimire/cleaver-setup-nextjs.git",
+  "author": "Anish Ghimire <anish@cleavr.io>",
+  "license": "MIT",
+  "dependencies": {
+    "finalhandler": "^1.1.2"
+  }
+}
